@@ -2,8 +2,9 @@
 ## 주제: 스미싱 문자를 판독해주는 챗봇
 
 <br>
-
-### 스미싱 문자 데이터 출처: 데이콘 금융 문자 분석 경진대회 https://dacon.io/competitions/official/235401/overview/
+#
+### 스미싱 문자 데이터 출처
+#### 데이콘 금융 문자 분석 경진대회 https://dacon.io/competitions/official/235401/overview/
 ### 데이콘, 스폰서의 협의로 인해 대회 종료 후 데이터 다운로드 불가능합니다. 
 ### 따라서 repository에서도 제공받은 데이터를 공개하지 않을 것입니다.
 <br>
@@ -80,3 +81,5 @@
      a. 웹서비스 개발 및 배포<br>
      
 ----------
+### Developers
+- 김동구(Kim Dong Gu) ehdrn463@naver.com
