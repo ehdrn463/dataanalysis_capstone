@@ -2,11 +2,22 @@
 ## 주제: 스미싱 문자를 판독해주는 챗봇
 ### 웹사이트: ec2-3-34-36-125.ap-northeast-2.compute.amazonaws.com:5000  
    (과금문제로 디버깅할 때만 서버돌리고 있음) 
-### 웹 프로그래밍 깃허브: https://github.com/ehdrn463/smash_web 
-   (챗봇서비스 연동될 시 본 리포지토리랑 병합 예정)
-## <br>챗봇: 라인 Messaging API를 이용한 개발 중<br>
+### <br>챗봇: 라인 Messaging API를 이용한 개발 중<br>
+<img src = https://user-images.githubusercontent.com/41279466/85946418-16a33000-b97f-11ea-9d3e-8bd6fdc90c35.png>
 
-<br>
+------------
+### Classification Analysis 결과
+
+------------
+### 핵심 라이브러리
+|이 름|주요 기능|
+|:----|:-----:|
+|TfIdfVectorizer|Tfidf 결과가 반영된 워드 임베딩 진행|
+|Support Vector Machine|가상의 경계값을 구성한 후, 인풋 값에 따른 classification 예측|
+|LightGBM|오답에 가중치를 두는 classifcation 예측|
+|flask|웹프로그래밍(파이썬 프레임워크)|
+|AWS EC2(ubuntu)|웹 배포 이용|
+
 
 -------------
 ### 스미싱 문자 데이터 출처
