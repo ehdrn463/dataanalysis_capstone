@@ -8,16 +8,24 @@
 ------------
 ### Classification Analysis 결과
 
+<br>
 ------------
 ### 핵심 라이브러리
-|이 름|주요 기능|
-|:----|:-----:|
-|TfIdfVectorizer|Tfidf 결과가 반영된 워드 임베딩 진행|
-|Support Vector Machine|가상의 경계값을 구성한 후, 인풋 값에 따른 classification 예측|
-|LightGBM|오답에 가중치를 두는 classifcation 예측|
-|flask|웹프로그래밍(파이썬 프레임워크)|
-|AWS EC2(ubuntu)|웹 배포 이용|
-
+|역 할|이 름|주요 기능|
+|:----|:-----:|:----:|
+|탐색적 데이터 분석|DTM(문서 단어행렬)| 문서의 단순 최다 노출 단어 빈도 분석|
+|탐색적 데이터 분석|TF-IDF|문서 내부에서 중복도를 고려한 최다 노출 단어 빈도 분석|
+|데이터 전처리|Konlpy - Mecab|한국어 형태소 분석기|
+|데이터 전처리|TfIdfVectorizer|Tfidf 결과가 반영된 워드 임베딩 진행|
+|데이터 모델링|k-fold cross validation|동일한 데이터셋을 교차검증하는 기법|
+|데이터 모델링|Support Vector Machine(SVM)|classification model1|
+|데이터 모델링|LightGBM|classification model2|
+|데이터 모델링|Long Short Term Memoy model|classifcation model3|
+|결과 분석|classifcation reprot|Recall, Precision, F-score 결과분석|
+|결과 분석|LIME|classification의 판단 근거를 시각적으로 보여줌|
+|웹프로그래밍|Python-Flask|웹프로그래밍 프레임워크|
+|웹프로그래밍|AWS-EC2|웹 배포 소프트웨어|
+<br>
 
 -------------
 ### 스미싱 문자 데이터 출처
