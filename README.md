@@ -1,8 +1,10 @@
 # 경희대학교 2020-1학기 데이터분석캡스톤디자인
 ## 주제: 스미싱 문자를 판독해주는 챗봇
 ### 웹사이트: ec2-3-34-36-125.ap-northeast-2.compute.amazonaws.com:5000  
-   (과금문제로 디버깅할 때만 서버돌리고 있음) 
-### <br>챗봇: 라인 Messaging API를 이용한 개발 중<br>
+   (챗봇: 라인 Messaging API를 이용한 개발 중) <br>
+   (과금문제로 디버깅할 때만 서버돌리고 있음) <br>
+
+### Flow-chart
 <img src = https://user-images.githubusercontent.com/41279466/85946418-16a33000-b97f-11ea-9d3e-8bd6fdc90c35.png>
 
 ------------
