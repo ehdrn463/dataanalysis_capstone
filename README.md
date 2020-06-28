@@ -9,16 +9,16 @@
 ### Classification Analysis 결과
 
 #### 1. LGBM: 정확도: 99.6% 모델링 시간: 45분 
-<img src = https://user-images.githubusercontent.com/41279466/85946798-ead57980-b981-11ea-8d63-ad820c1e8817.PNG>
+<img src = https://user-images.githubusercontent.com/41279466/85946798-ead57980-b981-11ea-8d63-ad820c1e8817.PNG width = 60%>
 
 #### 2. SVM 정확도: 99.7% 모델링 시간: 2분 
-<img src = https://user-images.githubusercontent.com/41279466/85946844-1f493580-b982-11ea-8b03-0fdaf263b0bb.PNG>
+<img src = https://user-images.githubusercontent.com/41279466/85946844-1f493580-b982-11ea-8b03-0fdaf263b0bb.PNG width = 60%>
 
 #### 3. LSTM 정확도: 99.5% 모델링 시간: 12시간
-<img src = https://user-images.githubusercontent.com/41279466/85946850-2e2fe800-b982-11ea-961b-df18ea41bf51.PNG>
+<img src = https://user-images.githubusercontent.com/41279466/85946850-2e2fe800-b982-11ea-961b-df18ea41bf51.PNG width = 60%>
 
 #### 4. Interpretable MachineLearning LIME 적용 결과
-<img src = https://user-images.githubusercontent.com/41279466/85946904-8830ad80-b982-11ea-98a9-ad939e16130e.PNG>
+<img src = https://user-images.githubusercontent.com/41279466/85946904-8830ad80-b982-11ea-98a9-ad939e16130e.PNG width = 60%>
 
 <br>
 
